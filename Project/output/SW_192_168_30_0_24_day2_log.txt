@@ -1,0 +1,447 @@
+[1755377366.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.0] Sent ARP to R3
+[1755377366.0] OSPF adjacency with R3
+[1755377366.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.1] Sent ARP to R3
+[1755377366.1] OSPF adjacency with R3
+[1755377366.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.2] Sent ARP to R3
+[1755377366.2] OSPF adjacency with R3
+[1755377366.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.3] Sent ARP to R3
+[1755377366.3] OSPF adjacency with R3
+[1755377366.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.4] Sent ARP to R3
+[1755377366.4] OSPF adjacency with R3
+[1755377366.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.5] Sent ARP to R3
+[1755377366.5] OSPF adjacency with R3
+[1755377366.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.6] Sent ARP to R3
+[1755377366.6] OSPF adjacency with R3
+[1755377366.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.7] Sent ARP to R3
+[1755377366.7] OSPF adjacency with R3
+[1755377366.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.8] Sent ARP to R3
+[1755377366.8] OSPF adjacency with R3
+[1755377366.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377366.9] Sent ARP to R3
+[1755377366.9] OSPF adjacency with R3
+[1755377367.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.0] Sent ARP to R3
+[1755377367.0] OSPF adjacency with R3
+[1755377367.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.1] Sent ARP to R3
+[1755377367.1] OSPF adjacency with R3
+[1755377367.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.2] Sent ARP to R3
+[1755377367.2] OSPF adjacency with R3
+[1755377367.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.3] Sent ARP to R3
+[1755377367.3] OSPF adjacency with R3
+[1755377367.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.4] Sent ARP to R3
+[1755377367.4] OSPF adjacency with R3
+[1755377367.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.5] Sent ARP to R3
+[1755377367.5] OSPF adjacency with R3
+[1755377367.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.6] Sent ARP to R3
+[1755377367.6] OSPF adjacency with R3
+[1755377367.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.7] Sent ARP to R3
+[1755377367.7] OSPF adjacency with R3
+[1755377367.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377367.9] Sent ARP to R3
+[1755377367.9] OSPF adjacency with R3
+[1755377368.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.0] Sent ARP to R3
+[1755377368.0] OSPF adjacency with R3
+[1755377368.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.1] Sent ARP to R3
+[1755377368.1] OSPF adjacency with R3
+[1755377368.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.2] Sent ARP to R3
+[1755377368.2] OSPF adjacency with R3
+[1755377368.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.3] Sent ARP to R3
+[1755377368.3] OSPF adjacency with R3
+[1755377368.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.4] Sent ARP to R3
+[1755377368.4] OSPF adjacency with R3
+[1755377368.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.5] Sent ARP to R3
+[1755377368.5] OSPF adjacency with R3
+[1755377368.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.6] Sent ARP to R3
+[1755377368.6] OSPF adjacency with R3
+[1755377368.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.7] Sent ARP to R3
+[1755377368.7] OSPF adjacency with R3
+[1755377368.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.8] Sent ARP to R3
+[1755377368.8] OSPF adjacency with R3
+[1755377368.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377368.9] Sent ARP to R3
+[1755377368.9] OSPF adjacency with R3
+[1755377369.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.0] Sent ARP to R3
+[1755377369.0] OSPF adjacency with R3
+[1755377369.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.1] Sent ARP to R3
+[1755377369.1] OSPF adjacency with R3
+[1755377369.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.2] Sent ARP to R3
+[1755377369.2] OSPF adjacency with R3
+[1755377369.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.3] Sent ARP to R3
+[1755377369.3] OSPF adjacency with R3
+[1755377369.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.4] Sent ARP to R3
+[1755377369.4] OSPF adjacency with R3
+[1755377369.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.5] Sent ARP to R3
+[1755377369.5] OSPF adjacency with R3
+[1755377369.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.6] Sent ARP to R3
+[1755377369.6] OSPF adjacency with R3
+[1755377369.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.7] Sent ARP to R3
+[1755377369.7] OSPF adjacency with R3
+[1755377369.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.8] Sent ARP to R3
+[1755377369.8] OSPF adjacency with R3
+[1755377369.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377369.9] Sent ARP to R3
+[1755377369.9] OSPF adjacency with R3
+[1755377370.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.0] Sent ARP to R3
+[1755377370.0] OSPF adjacency with R3
+[1755377370.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.1] Sent ARP to R3
+[1755377370.1] OSPF adjacency with R3
+[1755377370.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.2] Sent ARP to R3
+[1755377370.2] OSPF adjacency with R3
+[1755377370.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.3] Sent ARP to R3
+[1755377370.3] OSPF adjacency with R3
+[1755377370.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.4] Sent ARP to R3
+[1755377370.4] OSPF adjacency with R3
+[1755377370.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.5] Sent ARP to R3
+[1755377370.5] OSPF adjacency with R3
+[1755377370.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.6] Sent ARP to R3
+[1755377370.6] OSPF adjacency with R3
+[1755377370.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.7] Sent ARP to R3
+[1755377370.7] OSPF adjacency with R3
+[1755377370.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.8] Sent ARP to R3
+[1755377370.8] OSPF adjacency with R3
+[1755377370.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377370.9] Sent ARP to R3
+[1755377370.9] OSPF adjacency with R3
+[1755377371.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.0] Sent ARP to R3
+[1755377371.0] OSPF adjacency with R3
+[1755377371.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.1] Sent ARP to R3
+[1755377371.1] OSPF adjacency with R3
+[1755377371.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.2] Sent ARP to R3
+[1755377371.2] OSPF adjacency with R3
+[1755377371.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.3] Sent ARP to R3
+[1755377371.3] OSPF adjacency with R3
+[1755377371.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.4] Sent ARP to R3
+[1755377371.4] OSPF adjacency with R3
+[1755377371.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.5] Sent ARP to R3
+[1755377371.5] OSPF adjacency with R3
+[1755377371.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.6] Sent ARP to R3
+[1755377371.6] OSPF adjacency with R3
+[1755377371.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.7] Sent ARP to R3
+[1755377371.7] OSPF adjacency with R3
+[1755377371.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.8] Sent ARP to R3
+[1755377371.8] OSPF adjacency with R3
+[1755377371.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377371.9] Sent ARP to R3
+[1755377371.9] OSPF adjacency with R3
+[1755377372.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.0] Sent ARP to R3
+[1755377372.0] OSPF adjacency with R3
+[1755377372.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.1] Sent ARP to R3
+[1755377372.1] OSPF adjacency with R3
+[1755377372.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.2] Sent ARP to R3
+[1755377372.2] OSPF adjacency with R3
+[1755377372.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.3] Sent ARP to R3
+[1755377372.3] OSPF adjacency with R3
+[1755377372.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.4] Sent ARP to R3
+[1755377372.4] OSPF adjacency with R3
+[1755377372.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.5] Sent ARP to R3
+[1755377372.5] OSPF adjacency with R3
+[1755377372.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.6] Sent ARP to R3
+[1755377372.6] OSPF adjacency with R3
+[1755377372.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.7] Sent ARP to R3
+[1755377372.7] OSPF adjacency with R3
+[1755377372.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.8] Sent ARP to R3
+[1755377372.8] OSPF adjacency with R3
+[1755377372.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377372.9] Sent ARP to R3
+[1755377372.9] OSPF adjacency with R3
+[1755377373.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.0] Sent ARP to R3
+[1755377373.0] OSPF adjacency with R3
+[1755377373.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.1] Sent ARP to R3
+[1755377373.1] OSPF adjacency with R3
+[1755377373.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.2] Sent ARP to R3
+[1755377373.2] OSPF adjacency with R3
+[1755377373.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.3] Sent ARP to R3
+[1755377373.3] OSPF adjacency with R3
+[1755377373.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.4] Sent ARP to R3
+[1755377373.4] OSPF adjacency with R3
+[1755377373.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.5] Sent ARP to R3
+[1755377373.5] OSPF adjacency with R3
+[1755377373.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.6] Sent ARP to R3
+[1755377373.6] OSPF adjacency with R3
+[1755377373.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.7] Sent ARP to R3
+[1755377373.7] OSPF adjacency with R3
+[1755377373.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.8] Sent ARP to R3
+[1755377373.8] OSPF adjacency with R3
+[1755377373.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377373.9] Sent ARP to R3
+[1755377373.9] OSPF adjacency with R3
+[1755377374.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.0] Sent ARP to R3
+[1755377374.0] OSPF adjacency with R3
+[1755377374.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.1] Sent ARP to R3
+[1755377374.1] OSPF adjacency with R3
+[1755377374.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.2] Sent ARP to R3
+[1755377374.2] OSPF adjacency with R3
+[1755377374.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.3] Sent ARP to R3
+[1755377374.3] OSPF adjacency with R3
+[1755377374.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.4] Sent ARP to R3
+[1755377374.4] OSPF adjacency with R3
+[1755377374.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.5] Sent ARP to R3
+[1755377374.5] OSPF adjacency with R3
+[1755377374.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.6] Sent ARP to R3
+[1755377374.6] OSPF adjacency with R3
+[1755377374.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.7] Sent ARP to R3
+[1755377374.7] OSPF adjacency with R3
+[1755377374.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.8] Sent ARP to R3
+[1755377374.8] OSPF adjacency with R3
+[1755377374.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377374.9] Sent ARP to R3
+[1755377374.9] OSPF adjacency with R3
+[1755377375.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.0] Sent ARP to R3
+[1755377375.0] OSPF adjacency with R3
+[1755377375.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.1] Sent ARP to R3
+[1755377375.1] OSPF adjacency with R3
+[1755377375.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.2] Sent ARP to R3
+[1755377375.2] OSPF adjacency with R3
+[1755377375.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.3] Sent ARP to R3
+[1755377375.3] OSPF adjacency with R3
+[1755377375.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.4] Sent ARP to R3
+[1755377375.4] OSPF adjacency with R3
+[1755377375.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.5] Sent ARP to R3
+[1755377375.5] OSPF adjacency with R3
+[1755377375.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.6] Sent ARP to R3
+[1755377375.6] OSPF adjacency with R3
+[1755377375.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.7] Sent ARP to R3
+[1755377375.7] OSPF adjacency with R3
+[1755377375.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377375.9] Sent ARP to R3
+[1755377375.9] OSPF adjacency with R3
+[1755377376.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.0] Sent ARP to R3
+[1755377376.0] OSPF adjacency with R3
+[1755377376.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.1] Sent ARP to R3
+[1755377376.1] OSPF adjacency with R3
+[1755377376.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.2] Sent ARP to R3
+[1755377376.2] OSPF adjacency with R3
+[1755377376.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.3] Sent ARP to R3
+[1755377376.3] OSPF adjacency with R3
+[1755377376.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.4] Sent ARP to R3
+[1755377376.4] OSPF adjacency with R3
+[1755377376.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.5] Sent ARP to R3
+[1755377376.5] OSPF adjacency with R3
+[1755377376.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.6] Sent ARP to R3
+[1755377376.6] OSPF adjacency with R3
+[1755377376.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.7] Sent ARP to R3
+[1755377376.7] OSPF adjacency with R3
+[1755377376.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.8] Sent ARP to R3
+[1755377376.8] OSPF adjacency with R3
+[1755377376.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377376.9] Sent ARP to R3
+[1755377376.9] OSPF adjacency with R3
+[1755377377.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.0] Sent ARP to R3
+[1755377377.0] OSPF adjacency with R3
+[1755377377.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.1] Sent ARP to R3
+[1755377377.1] OSPF adjacency with R3
+[1755377377.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.2] Sent ARP to R3
+[1755377377.2] OSPF adjacency with R3
+[1755377377.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.3] Sent ARP to R3
+[1755377377.3] OSPF adjacency with R3
+[1755377377.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.4] Sent ARP to R3
+[1755377377.4] OSPF adjacency with R3
+[1755377377.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.5] Sent ARP to R3
+[1755377377.5] OSPF adjacency with R3
+[1755377377.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.6] Sent ARP to R3
+[1755377377.6] OSPF adjacency with R3
+[1755377377.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.7] Sent ARP to R3
+[1755377377.7] OSPF adjacency with R3
+[1755377377.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.8] Sent ARP to R3
+[1755377377.8] OSPF adjacency with R3
+[1755377377.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377377.9] Sent ARP to R3
+[1755377377.9] OSPF adjacency with R3
+[1755377378.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.0] Sent ARP to R3
+[1755377378.0] OSPF adjacency with R3
+[1755377378.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.1] Sent ARP to R3
+[1755377378.1] OSPF adjacency with R3
+[1755377378.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.2] Sent ARP to R3
+[1755377378.2] OSPF adjacency with R3
+[1755377378.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.3] Sent ARP to R3
+[1755377378.3] OSPF adjacency with R3
+[1755377378.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.4] Sent ARP to R3
+[1755377378.4] OSPF adjacency with R3
+[1755377378.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.5] Sent ARP to R3
+[1755377378.5] OSPF adjacency with R3
+[1755377378.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.6] Sent ARP to R3
+[1755377378.6] OSPF adjacency with R3
+[1755377378.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.7] Sent ARP to R3
+[1755377378.7] OSPF adjacency with R3
+[1755377378.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.8] Sent ARP to R3
+[1755377378.8] OSPF adjacency with R3
+[1755377378.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377378.9] Sent ARP to R3
+[1755377378.9] OSPF adjacency with R3
+[1755377379.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.0] Sent ARP to R3
+[1755377379.0] OSPF adjacency with R3
+[1755377379.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.1] Sent ARP to R3
+[1755377379.1] OSPF adjacency with R3
+[1755377379.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.2] Sent ARP to R3
+[1755377379.2] OSPF adjacency with R3
+[1755377379.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.3] Sent ARP to R3
+[1755377379.3] OSPF adjacency with R3
+[1755377379.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.4] Sent ARP to R3
+[1755377379.4] OSPF adjacency with R3
+[1755377379.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.5] Sent ARP to R3
+[1755377379.5] OSPF adjacency with R3
+[1755377379.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.6] Sent ARP to R3
+[1755377379.6] OSPF adjacency with R3
+[1755377379.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.7] Sent ARP to R3
+[1755377379.7] OSPF adjacency with R3
+[1755377379.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.8] Sent ARP to R3
+[1755377379.8] OSPF adjacency with R3
+[1755377379.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377379.9] Sent ARP to R3
+[1755377379.9] OSPF adjacency with R3
+[1755377380.0] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.0] Sent ARP to R3
+[1755377380.0] OSPF adjacency with R3
+[1755377380.1] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.1] Sent ARP to R3
+[1755377380.1] OSPF adjacency with R3
+[1755377380.2] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.2] Sent ARP to R3
+[1755377380.2] OSPF adjacency with R3
+[1755377380.3] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.3] Sent ARP to R3
+[1755377380.3] OSPF adjacency with R3
+[1755377380.4] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.4] Sent ARP to R3
+[1755377380.4] OSPF adjacency with R3
+[1755377380.5] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.5] Sent ARP to R3
+[1755377380.5] OSPF adjacency with R3
+[1755377380.6] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.6] Sent ARP to R3
+[1755377380.6] OSPF adjacency with R3
+[1755377380.7] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.7] Sent ARP to R3
+[1755377380.7] OSPF adjacency with R3
+[1755377380.8] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.8] Sent ARP to R3
+[1755377380.8] OSPF adjacency with R3
+[1755377380.9] Received {'type': 'ARP', 'src': 'R3', 'src_mac': 'MAC_R3'}
+[1755377380.9] Sent ARP to R3
+[1755377380.9] OSPF adjacency with R3
+[1755377381.0] DEVICE RECOVERED
+[1755377381.0] LINK SW_192.168.30.0/24-R3 UP
+[1755377381.0] STOPPED

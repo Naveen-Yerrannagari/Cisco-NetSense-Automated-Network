@@ -1,0 +1,9 @@
+{
+  "duplicate_ips": [],
+  "vlan_issues": [],
+  "gateway_issues": [],
+  "mtu_mismatches": [],
+  "loops": [],
+  "aggregation_opportunities": [],
+  "routing_recommendations": []
+}

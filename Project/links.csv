@@ -1,0 +1,6 @@
+endpointA,endpointB,bandwidth_mbps,mtu,label
+R1,SW_192.168.10.0/24,100,1500,LAN10
+R2,SW_192.168.20.0/24,100,1500,LAN20
+R3,SW_192.168.30.0/24,100,1500,LAN30
+R1,R2,1000,1500,Backbone
+R2,R3,1,1500,Access_Faulty

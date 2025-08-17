@@ -1,0 +1,4 @@
+src,dst,demand_mbps
+R1,R3,100
+R2,R4,80
+R1,R2,50
