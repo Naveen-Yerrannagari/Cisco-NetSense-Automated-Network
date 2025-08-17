@@ -1,4 +1,4 @@
-# NetSense-Automated-Network-Insight-Resilience-Cisco-Internship-
+# Cisco NetSense – Automated Network
 NetSense automates enterprise network management by generating instant topologies, detecting configuration errors, optimizing traffic flow, and streamlining troubleshooting. It reduces downtime, boosts security, and delivers real-time visibility, making networks resilient and efficient with minimal manual effort.
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/License-Educational-orange)
